@@ -1,2 +1,2 @@
-# My-First-NeoVim-Config
-A first custom NeoVim Configuration.
+# Custom-NeoVim-Configs
+A repository containing all of my NeoVim Configs
